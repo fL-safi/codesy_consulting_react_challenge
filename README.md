@@ -1,3 +1,8 @@
+For this task I use the react-big-calender, react-datepicker and date-fns
+
+Below is the process to getting starting with this task.
+Please install all dependencies with npm install and then npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
